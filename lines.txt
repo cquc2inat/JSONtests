@@ -1,4 +1,11 @@
 this is a text file
 this is a text file
+
+DENVER— To really understand how a material behaves, researchers need to simulate its whirling electrons, which govern most of its chemical and electronic properties. But they have traditionally faced a trade-off. They could simulate up to a couple of hundred electrons with near-perfect accuracy. Or they could simulate a much larger number—while accuracy fell off a cliff.
+
+The world’s most powerful supercomputers, operating at the far frontier of speed known as the exascale, have now begun to eliminate that trade-off.
+
+At SC23, a supercomputing conference here, researchers this week reported simulating the behavior of up to 600,000 electrons within a microscopic chunk of a magnesium alloy with nearly the accuracy of a quantum Monte Carlo simulation, the gold standard for much smaller numbers of electrons. “We broke through the accuracy-length scale barrier,” says Sambit Das, a mechanical engineer at the University of Michigan and a member of the team presenting the work.
+
 this is a text file
 this is a text file
